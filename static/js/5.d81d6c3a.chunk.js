@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{37:function(e,n,t){"use strict";t.r(n);var a=t(6),c=t(7),r=t(9),u=t(8),i=t(10),o=t(1),s=t.n(o),p=function(e){function n(){return Object(a.a)(this,n),Object(r.a)(this,Object(u.a)(n).apply(this,arguments))}return Object(i.a)(n,e),Object(c.a)(n,[{key:"render",value:function(){return s.a.createElement("div",null,"Cakes")}}]),n}(o.Component);n.default=p}}]);
+//# sourceMappingURL=5.d81d6c3a.chunk.js.map
